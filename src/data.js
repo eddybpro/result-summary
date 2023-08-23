@@ -4,7 +4,7 @@ export const data = [
   {
     category: "Reaction",
     score: 80,
-    icon: "./src/assets/icon-reaction.svg",
+    icon: "../src/assets/icon-reaction.svg",
   },
   {
     category: "Memory",
